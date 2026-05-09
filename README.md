@@ -7,7 +7,7 @@ Discord: `vegh#1821`
 Simple, lightweight key autopresser made in Python with CustomTkinter.  
 Lets you spam keys using a hotkey and custom sequences.
 
-![FKB Key Chain](https://i.imgur.com/fukJ2I8.png)  
+![FKB Key Chain](https://imgur.com/a/xSx4S2n)  
 
 ## Features
 - Set your own hotkey  
