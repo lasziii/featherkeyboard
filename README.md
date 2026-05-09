@@ -9,7 +9,7 @@ Discord: `vegh#1821`
 Lightweight Python key automation tool built with CustomTkinter.  
 Designed for running customizable key chains with hotkey activation and per-key delays.
 
-![FKB Key Chain](https://imgur.com/4FT0es0)
+![FKB Key Chain](https://imgur.com/njyCFnm)
 
 ---
 
