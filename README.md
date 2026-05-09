@@ -45,8 +45,6 @@ The chain executes sequentially from top to bottom.
 5. Choose Hold or Toggle mode  
 6. Press hotkey to start
 
-![FKB Hotkey & Mode](https://i.imgur.com/gGbL033.png)
-
 ---
 
 ## Clipboard Feature
@@ -58,17 +56,15 @@ Built-in character board:
 ---
 
 ## Notes
-- No admin required in most cases  
-- Requires keyboard hook permission  
-- Some antivirus programs may flag automation tools  
-- Works best on Windows
+- No administrator required
+- Antivirus should not be turned off
 
 ---
 
 ## Download
 https://github.com/veghs/featherkeyboard/archive/refs/heads/main.zip
 
-ZIP → Extract → Run script / executable
+ZIP → Folder → FKB.exe
 
 ---
 
