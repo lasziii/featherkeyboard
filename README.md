@@ -3,40 +3,74 @@ Only author: **laszi_**
 
 Discord: `vegh#1821`
 
-## Overview
-Simple, lightweight key autopresser made in Python with CustomTkinter.  
-Lets you spam keys using a hotkey and custom sequences.
+---
 
-![FKB Key Chain](https://imgur.com/a/xSx4S2n)  
+## Overview
+Lightweight Python key automation tool built with CustomTkinter.  
+Designed for running customizable key chains with hotkey activation and per-key delays.
+
+![FKB Key Chain](https://imgur.com/a/xSx4S2n)
+
+---
 
 ## Features
-- Set your own hotkey  
-- Hold / Toggle mode  
-- Multiple keys in a chain  
-- Custom delay after pressing each key  
-- Remove keys anytime  
+- Custom hotkey binding
+- Hold / Toggle activation modes
+- Multi-key chain system
+- Per-key delay control
+- Add / remove / reorder keys
+- Clipboard panel with special characters
+- Always-on-top toggle
+- Dragable window UI
+
+---
 
 ## How it works
-When activated, the key chain runs from start to end.  
-It will finish the full chain even if you release the hotkey.
+When activated, the program runs your key chain in order.
+
+Each key is executed with its own delay setting.
+
+- Hold mode → runs while key is held
+- Toggle mode → runs until manually stopped
+
+The chain executes sequentially from top to bottom.
+
+---
 
 ## Usage
-1. Open the app  
-2. Set hotkey  
-3. Add keys with `+`  
-4. Set delays  
-5. Choose mode  
-6. Press hotkey
+1. Launch the app  
+2. Click hotkey button and set a key  
+3. Add keys using `+ Add Key`  
+4. Set delay for each key  
+5. Choose Hold or Toggle mode  
+6. Press hotkey to start
 
-![FKB Hotkey & Mode](https://i.imgur.com/gGbL033.png)  
+![FKB Hotkey & Mode](https://i.imgur.com/gGbL033.png)
+
+---
+
+## Clipboard Feature
+Built-in character board:
+- Copy special characters instantly
+- Toggle uppercase mode
+- Fast access grid layout
+
+---
 
 ## Notes
-- No admin required  
-- Antivirus should allow it  
+- No admin required in most cases  
+- Requires keyboard hook permission  
+- Some antivirus programs may flag automation tools  
+- Works best on Windows
+
+---
 
 ## Download
 https://github.com/veghs/featherkeyboard/archive/refs/heads/main.zip
 
-ZIP -> Folder -> fkb.exe
+ZIP → Extract → Run script / executable
 
+---
+
+## Preview
 ![FKB Main Window](https://i.imgur.com/4detAl5.png)
